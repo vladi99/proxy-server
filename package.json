@@ -1,0 +1,26 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Proxy Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladi99/proxy-server.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladi99/proxy-server/issues"
+  },
+  "homepage": "https://github.com/vladi99/proxy-server#readme",
+  "dependencies": {
+    "http-proxy": "^1.18.0"
+  }
+}
