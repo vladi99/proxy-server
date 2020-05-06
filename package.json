@@ -22,5 +22,8 @@
   "homepage": "https://github.com/vladi99/proxy-server#readme",
   "dependencies": {
     "http-proxy": "^1.18.0"
+  },
+  "engines": {
+    "node": "12.16.1"
   }
 }
